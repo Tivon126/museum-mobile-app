@@ -1,0 +1,115 @@
+header {display: grid;
+	align-content: center;
+	background-image: all;}
+	
+	.fas {font-size: 3rem;
+		color: black;
+		margin-left: 9em;
+	}
+	
+	img  {display: ; 
+	margin: 0 auto 0 auto;
+	background-image: all;
+	align-content: center;}
+
+h1 {font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+	display: grid;
+	place-items:  center;
+	text-align: center;
+border-color: black;
+border: 1px solid; }
+h1 * {
+	grid-column: 1;
+	grid-row: 1;}
+
+h2 {display: grid;
+	place-items:  center;
+	text-align: center;
+text-decoration-color: black;
+background-color: white;
+border-color: black;
+border: black;
+}
+
+p { font-family: 'Open Sans', sans-serif;
+font-weight: 300;
+	text-align: center; 
+font-weight: bold;}
+
+section { font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+	display: grid;
+	place-items:  center;
+	text-align: center;
+background-color: white;
+border-color: black;
+border: black; }
+section .button {
+	grid-column: 1;
+	grid-row: 1;}
+	section img {
+	grid-column: 1;
+	grid-row: 1;}
+
+
+.button {color: black;
+	background-color: white;
+	border-color: black;
+    border-style: solid;
+margin: 2em;}
+
+h3 {font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+ text-align: center;}
+ h3 img {
+ 	width: 20%;}
+
+h4 {font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+	align-content: center;
+	font-weight: bold;
+	text-align: center;
+	
+}
+footer {font-family: 'Open Sans', sans-serif;
+    font-weight: 400; 
+	background-color: white;
+	border-color: black;
+	align-content: left;
+	align-items: center;
+	padding: 2rem;
+}
+footer img {align-content: center;
+place-items: center;
+}
+.Media {text-align: center;
+align-content: center;
+size: all 100%;}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans',sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+body nav { border-color: black;
+	       border-style: solid;
+	       width: :100%;
+	       height: 80px;
+	       text-align: center;}
+nav ul{
+	float: left;
+	text-align: center;
+}
+ul li {list-style-type: none;
+display: inline-block;
+padding: 12px;
+text-align: center}
+ul li a {
+	text-decoration: underline;
+	font-size: 14px;
+	padding: 12px;
+	color: black;
+text-align: center
+}
